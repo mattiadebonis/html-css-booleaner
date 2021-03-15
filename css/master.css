@@ -24,7 +24,7 @@ header{
     margin: 5px;
 }
 
-/* intestazione dell'a pagina'*/
+/* intestazione della pagina'*/
 
 h1{
     color: black;
@@ -35,6 +35,42 @@ h1{
 #intestazione-articolo{
 
     color: gray;
-    line-height: 0%;
+    line-height: 1px;
 
 }
+
+#descrizione-immagini{
+    line-height: 1px;
+    font-size: small;
+
+}
+.immagini_articolo{
+    width: 80%;
+}
+
+/* enfasi nel paragrafo */
+.enfasi{
+    background-color: yellow;
+}
+
+
+
+td{
+    text-align: justify;
+}
+
+thead{
+    background-color: blue;
+    color: white;
+}
+
+.prima-seconda-colonna{
+    width:20%;
+
+
+}
+
+.riga-colorata{
+    background-color: turquoise;
+}
+
