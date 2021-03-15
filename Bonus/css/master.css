@@ -1,0 +1,108 @@
+/* margini della pagina*/
+
+body{
+    margin: 0;
+}
+
+main, footer{
+    margin: 10px;
+}
+
+
+/* intestazione della pagina*/
+
+header{
+    background-image: url(../img/pattern.png);
+    background-color: royalblue;
+    height: 170px;
+}
+
+
+/* logo booleaners*/
+
+#logo{
+    width: 200px;
+    height: 230px;
+    margin: 5px;
+}
+
+
+/* intestazione della articolo*/
+
+h1{
+    color: black;
+    font-size: 32px;
+    line-height: 32px;
+    
+}
+#intestazione-articolo{
+
+    color: gray;
+    line-height: 1px;
+
+}
+
+
+/*corpo articolo */
+#descrizione-immagini{
+    line-height: 1px;
+    font-size: small;
+
+}
+.immagini_articolo{
+    width: 80%;
+}
+
+
+/* enfasi nel paragrafo */
+.enfasi{
+    background-color: yellow;
+}
+
+
+/* tabella*/
+td{
+    text-align: justify;
+}
+
+thead{
+    background-color:dodgerblue;
+    color: white;
+}
+
+.prima-seconda-colonna{
+    width: 20%;
+}
+
+.riga-colorata{
+    background-color:skyblue;
+}
+
+
+/* suggerimenti*/
+
+#titolo-sezione-suggerimenti{
+    color: gray;
+}
+
+
+.articolo-suggerimento{
+    color: white;
+    height: 190px;
+    width: 270px;
+    
+}
+
+.titolo-articolo-suggerito{
+    margin-top: 8px; 
+    margin-left: 8px;    
+}
+
+#primo-suggerimento{
+    background-image: url(../img/monitor.jpg);
+
+}
+
+#secondo-suggerimento{
+    background-image: url(../img/graph.jpg);
+}
