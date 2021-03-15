@@ -1,0 +1,14 @@
+header{
+    background-image: url(../img/pattern.png);
+    background-color: aqua;
+    height: 160px;
+}
+
+#logo{
+    width: 200px;
+    height: 230px;
+}
+
+body{
+    background-color: bisque;
+}
