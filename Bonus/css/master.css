@@ -5,8 +5,12 @@ body{
 }
 
 main, footer{
-    margin: 10px;
+
+    margin-left: 10%;
+    margin-right: 10%;
+
 }
+
 
 
 /* intestazione della pagina*/
@@ -23,7 +27,9 @@ header{
 #logo{
     width: 200px;
     height: 230px;
-    margin: 5px;
+    margin-left: 10%;
+    margin-right: 10%;
+
 }
 
 
